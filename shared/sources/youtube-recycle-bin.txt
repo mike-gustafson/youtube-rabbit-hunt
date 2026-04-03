@@ -1,0 +1,1289 @@
+Tab 1 
+WORKING ON A FIX FOR SORTING BY UPLOAD DATE AYYYYYYE 
+ 
+ 
+KVN AUST presents: 
+YouTube’s Recycle Bin 
+& The internet’s largest video graveyard 
+____________________________________________________________________________ 
+Preface 
+ 
+ 
+YouTube currently hosts over 20 billion videos, making it the largest video-sharing website of all time. First of all… Goddamn! No one will ever comb through all of those videos... Nobody. The ocean of videos out there is so vast that it would take thousands of years to watch a quarter of them. I’ve been using YouTube for 20 years, and sometimes I wonder if I’ve even watched 100,000 videos in total... No idea. 
+ 
+ There’s been something I’ve always thought about while using YouTube: How likely is it to get your video on the front page? Billions of videos are ‘fighting’ to get featured there, but only very few actually make it. How few? Besides your behavior and watch-history on the site, what does it take for a video to be recommended to you and everyone else? On the flip side I began to wonder, how many videos are left behind and never make it to the recommended feed? 
+ 
+ Back when I still had MingKasterMK, I’d see my own higher-performing videos appear on other peoples’ for-you pages and suggested video feeds. It was the trippiest thing to see in real time. I’d be watching a random video by a random YouTuber; they’d scroll through YouTube and suddenly there I am! in their suggested feed. What are the odds of that? It made me think that the ‘front page’ had to be VERY small, and all of us were generally coming across the same small pool of videos. 
+ 
+ 
+I decided to google-search for some answers regarding view count: 
+ 
+ 
+ 
+ 
+ 
+ 
+I google-searched “What percentage of YouTube videos have over 1 million views?” 
+-0.33%. Less than half of a percent of all YT videos have over 1 million views. 
+ “What percentage of YouTube videos have less than 1000 views?” 
+-93% of all YT videos have under 1000 views. 
+ “Less than 100 views?” 
+-30% of all YT videos have under 100 views. 
+ 
+ 
+~6 Billion YouTube videos have less than 100 views… I think it’s safe to say that there are at least a billion videos out there with no views at all. This group of low-view videos is what I call “YouTube’s Video Graveyard.” 
+ 
+ I wondered if there was a way I could access those videos. I knew there would be lost gems within these obscure uploads. I also knew there would be a lot of randomness in there as well (test uploads, 5 seconds of nothing, intimate moments with family members, school projects, zoom calls, unhinged ramblers, potential serial killers, etc.). I was eager to find a way in, but I didn’t really know what to search to get there. 
+ 
+ One day I was on Discord with Michael (Mika_Virus) and we were fucking around on one of those websites that show you YouTube videos with low views. Those websites were alright at what they did, but we noticed they never actually showed us videos with 0 views. There were always over 100 or so views on the videos. Also, the videos were never older than 1 month. We questioned if it was possible to access the more dated ones. 
+ 
+ That day, the site we liked using was down for no reason at all, so we had to get creative. One of the videos we had saved in our chat had a title that matched up with a default filename given to recorded videos from the iPhone: IMG followed by 4 numbers. We tried typing ‘IMG 3201’ into the YouTube search bar, and we were mindblown. Thousands of uploads were named IMG 3201. Using YouTube’s filter system and sorting by view count, we could now find those 0-view uploads. Then we tried searching for IMG 3202, IMG 3203, IMG 3204… hundreds more 0-view results appeared. We were geeking at how vast this side was. 
+ 
+ 
+It then became our mission to find as many ‘active’ default filenames as possible in an attempt to continuously access the graveyard. Through doing this, we compiled a big-ass list of keyphrases that I dubbed “YouTube’s Recycle Bin.” With the help of all of you out there, the list continues to grow. We’ve probably only accessed less than 0.05% of the video graveyard, but due to the sheer size of the graveyard, we are eating well off of this small slice. 
+ 
+ 
+Just like I predicted, I’ve found absolute GEMS while on this side of YouTube. This side of YouTube feels way more human than the more polished side. This feels like sonder, like the way YouTube used to be. I guess it still is that way, only now you gotta look under the hood. 
+____________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________________________________________________ 
+ 
+ 
+YouTube’s Recycle Bin 
+What is it? 
+____________________________________________________________________________ 
+What is YouTube’s Recycle Bin (YRB)? 
+ 
+ 
+YRB represents all the videos on YouTube with little to no views, and no real titles. These are videos that the algorithm won’t recommend to you (initially). Since there’s no information attached to the video (no normal video title, no tags, no description), the algorithm doesn’t know what to classify the video as, and doesn’t push the video out to other users. This could be the case for years and years, leaving the video completely lost to the outside world. 
+ 
+ 
+The only way to access these videos is to search for the “keyphrase” associated with the device / application that was used to record the video. These keyphrases are usually the default filename given to a recorded or downloaded video by the device / application. 
+ 
+ 
+ 
+ 
+ 
+ 
+I compiled a list of keyphrases that will take us to YouTube’s video graveyard. We call it ‘The Maps.’ Using YouTube’s search bar, Map 1 helps you find brand new videos with ~0 views, Map 2 helps you find old & forgotten videos with ~0 views, & Map 3 helps you find low-view videos from before 2008. IT’S NOT PERFECT. Some leads work better than others, but yeah you get it. 
+____________________________________________________________________________ 
+ 
+ 
+____________________________________________________________________________ 
+ 
+ 
+YouTube’s Recycle Bin 
+Maps 
+____________________________________________________________________________ 
+ 
+ 
+Find brand new videos with ~0 views 
+ 
+ 
+Map Legend: Keyphrase Keyphrase Variable [Search Example] Source (Additional Info) @Shoutout/Credit 
+ 
+ 
+ 
+Sort by: Upload Date (MANDATORY) 
+ 
+ 
+Search Tools: Quotations (“ ”) [“.MP4”] 
+ 
+ 
+ 
+ 
+ 
+ 
+IMG (Smartphone) 
+ 
+MVI (Camera) 
+ 
+YYYYMMDD [20250102] (Misc) (YMD = YearMonthDay) 
+ 
+WIN YYYYMMDD [WIN 20250102] (Webcam) 
+ 
+Capture YYYYMMDD (Webcam) @thevoid6756 
+ 
+VID YYYYMMDD (Misc) 
+ 
+“My Movie X” [”My Movie 1”] (Misc) 
+ 
+“My Edited Video” (Video editor) @CharlesMontgomeryBurns. 
+ 
+/Storage/Emulated/ (Video editor) 
+ 
+PXL (Smartphone) @stickmandaninacan 
+ 
+InShot YYYYMMDD (App) 
+ 
+WhatsApp Video YYYY [WhatsApp Video 2025] (App) 
+ 
+FullSizeRender (Smartphone) 
+ 
+RPReplay (Screen Recorder) 
+ 
+VTS 01 (DVD) 
+ 
+DVR (Game Capture) 
+ 
+VLC Record (Game Capture / Misc) 
+ 
+Robloxapp (Game Capture) (Roblox) @T1MAGEDDON 
+ 
+“.MP4” (Format) 
+ 
+“.3gp” (Format) 
+ 
+“.MOV” (Format) 
+ 
+“.AVI” (Format) 
+ 
+“.WMV” (Format) 
+ 
+“.FLAC” (Format) (Copyright music) 
+ 
+“.WAV” (Format) (User-created music) 
+ 
+ 
+“.3g2” (Format) @Pagenonfound 
+ 
+Recording gvo (Zoom) @zxz41_Kristian 
+ 
+Lv 0 (Misc) @Oopse47 
+ 
+bmdjAAAF (Misc) 
+ 
+YouCut YYYYMMDD (Misc) 
+ 
+ 
+“Video YYYYMMDD” (Misc) 
+ 
+“Copy of Copy of” (Misc) @TheLimeyDragon 
+“Untitled video” (Misc) 
+ 
+“Com Oculus Vrshell” (VR Headset) 
+ 
+ 
+“Com Oculus Metacam” (VR Headset) 
+ 
+ 
+Desktop YYYY MM DD (Game Capture) @czechgop7631 
+ 
+ 
+Videoplayback (Misc) @Daldosbm 
+ 
+ 
+“Video Output” (Phone) 
+ 
+ 
+KM YYYYMMDD (Video Editor) @AFasterSlowpoke 
+ 
+ 
+Portrait Video Nanny Canon (Video Editor) NSFW @Evanbeckman358 
+ 
+ 
+“Sequence 01 1” (Video Editor) @ZuperDarkk 
+ 
+ 
+“Video Assignment” (Misc) (School Projects) 
+ 
+ 
+“Untitled Video Made with Clipchamp” (Video Editor) @Jannik323 
+ 
+“Bandicam” (Screen Recording) 
+ 
+“Untitled Design” (Video Editor) @BladeOscReal 
+ 
+“Javaw” (Game Capture) (Minecraft) 
+ 
+ 
+“Injected” (360 Video) (Filter: 360 Video) @PnfrmEnm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________________________________________________ 
+ 
+ 
+YouTube’s Recycle Bin 
+Maps 
+____________________________________________________________________________ 
+ 
+ 
+Find old & forgotten videos with ~0 views 
+ 
+ 
+Map Legend: Keyphrase Keyphrase Variable (Variable Example) [Search Example] Source (Additional Info) @Shoutout/Credit 
+ 
+ 
+ 
+Sort by: View Count (Optional) 
+ 
+ 
+Search Tools: Before:(Year) [Before:2015]. Quotations (“ ”) [“IMG 4201” Before:2015] 
+ 
+ 
+ 
+ 
+ 
+ 
+IMG XXXX (0000-9999) [IMG 3201] 
+ 
+MVI XXXX (Camera) 
+ 
+MOV XXXX (Camera) 
+ 
+100 XXXX (Camera) 
+ 
+SAM XXXX (Camera) 
+ 
+DSC XXXX (Camera) 
+ 
+SDV XXXX (Camera) @kyle6266 
+ 
+DSCFXXXX (Camera) 
+ 
+DSCNXXXX (Camera) 
+ 
+PICTXXXX (Camera) @CharlesMontgomeryBurns. 
+MAQ0XXXX (Camera) 
+ 
+ 
+FILEXXXX (Dashcam) 
+ 
+GOPRXXXX (GoPro) 
+ 
+GP01XXXX (GoPro) 
+ 
+GX01XXXX (GoPro) 
+ 
+DJI XXXX (0000-2000) (Drone) @CharlesMontgomeryBurns. 
+ 
+ 
+HNI 0XXX (000-100) (Nintendo DS) @KILOPOWER 
+ 
+ 
+WA0XXX (000-999) (Misc) 
+ 
+ 
+MOL0XX (A-F, 0-9) [MOL0E5] (Camera) @CharlesMontgomeryBurns. 
+ 
+MOL0XX (00-99) 
+ 
+“HHMMSS” (000000-235959) (Misc) (Time of Day) 
+ 
+P100XXXX (0000-1999) (Camera) 
+ 
+VTS XX X (00-99 0-9) (DVD) 
+ 
+ 
+VTS XXX 1 (000-999) (DVD) 
+ 
+VTS 01 XXX (000-999) (DVD) 
+ 
+“My Slideshow Video” (Video Editor) 
+ 
+ 
+“My Slideshow” (Video Editor) 
+ 
+“My Slideshow XX” (00-99) (Video Editor) 
+ 
+ 
+“My Stupeflix Video” (Video Editor) 
+ 
+ 
+“My Stupeflix Video XXXX” (0000-1050) 
+ 
+ 
+YYYYMMDD (20250826) 
+ 
+WIN YYYYMMDD (>2013) 
+ 
+ 
+VID YYYYMMDD (>2008) 
+ 
+Capture YYYYMMDD (>2008) @thevoid6756 
+ 
+InShot YYYYMMDD (>2016) 
+ 
+PXL YYYYMMDD (>2020) 
+ 
+ 
+AUD-YYYYMMDD (>2017) 
+ 
+ 
+240p 400k (Filter: Playlist) NSFW 
+ 
+ 
+480p 600k ^ NSFW 
+ 
+480p 2000k ^ NSFW 
+ 
+ 
+720p 1500k ^ NSFW 
+ 
+ 
+720p 4000k ^ NSFW 
+ 
+ 
+Clips4Sale ^ NSFW 
+ 
+ 
+WhatsApp Video YYYY MM DD (>2015) 
+ 
+ 
+Desktop YYYY MM DD (Game Capture) 
+ 
+ 
+“Axon Body * Video” (Body Cam) 
+ 
+WP YYYYMMDD (Misc) (>2011) 
+ 
+ 
+“Video YYYYMMDD” (Misc) (>2012) 
+ 
+KakaoTalk Video YYYY MM (Misc) (>2012) 
+ 
+AVSEQXX (00-99) (Misc) @Set_Your_Handle10 
+ 
+ 
+AVSEQXX.DAT (00-99) (Misc) 
+ 
+ 
+MOVIXXXX (0000-1050) (Drone / Dashcam) 
+ 
+GMTYYYYMMDD (Zoom) @zxz41_Kristian 
+ 
+ 
+SVM AXXXX (0000-1000) (Camera) @nellip.683 
+ 
+ 
+KVIDXXXX (0000-1000) (Camera) @Junoeclipse7715 
+ 
+ 
+“My Videolicious Video” (Video Editor) @slurrygeyser8133 
+ 
+M2U0XXXX (0000-9999) (Camcorder) @blissom 
+GH01XXXX (GoPro) 
+ 
+ 
+“Month DD, YYYY” [“May 02, 2011”] (Phone) 
+ 
+MAH0XXXX (0000-9999) (Camera) 
+ 
+ 
+CIMGXXXX (0000-9999) (Camera) 
+ 
+ 
+IMGPXXXX (0000-9999) (Camera) 
+ 
+ 
+VideoXXXX (0000-9999) (Camera) 
+ 
+MOV0XXXX (0000-9999) (Camera) 
+ 
+ 
+MUSIC0X.DAT (DVD) (1-9) (Karaoke) 
+ 
+ 
+REC XXXX (0000-1000) (Drone / Dashcam) 
+ 
+ 
+AVI00XXX (000-100) (Camera) 
+ 
+ 
+AVI 0XXX (001-150) (Camera) 
+ 
+ 
+4XXX (AAA-FFF, 000-999) [4A2F] (Phone) 
+ 
+ 
+Trim 4XXX (AAA-FFF, 000-999) (Phone) 
+ 
+Copy 4XXX (AAA-FFF, 000-999) (Phone) 
+ 
+Video 4XXX (AAA-FFF, 000-999) (Phone) 
+ 
+ 
+M4H0XXXX (0000-9999) (Camera) @Fraigo 
+ 
+ 
+M4V0XXXX (0000-9999) (Camera) @AymonAdren 
+ 
+ 
+SDC1XXXX (0000-9999) (Camera) @saso1901 
+ 
+ 
+SANYXXXX (0000-9999) (Camera) @Mackhill8851 
+ 
+ 
+HPIMXXXX (0000-9999) (Camera) 
+ 
+ 
+GEDCXXXX (0000-9999) (Camera) @CharlesMontgomeryBurns. 
+ 
+ 
+XXXX.mp4 (0000-9999) (Misc) 
+ 
+ 
+VID0XXXX (0000-5000) (Camera) @Techyarchivuma 
+ 
+ 
+DSC 0XXXX (0000-5000) (Camera) @__atob__ 
+ 
+ 
+CAM0XXXX (0000-5000) (Camera) @Denzelkrocker1673 
+ 
+ 
+AMBAXXXX (0001-5000) (Action Cam) @saso1901 
+ 
+ 
+HDV XXXX (0001-5000) (Camera) @YeoungBraxx 
+ 
+ 
+DSCIXXXX (0001-4000) (Camera) @Dontzky 
+ 
+ 
+SNV3XXXX (0001-3000) (Camera) @saso1901 
+ 
+ 
+MOVXXXXA (0000-3000) (Camera) @AymonAdren 
+ 
+ 
+Zi6 XXXX (0001-2000) (Camera) @misterherman 
+ 
+ 
+ClipXXXX (0000-2000) (Misc) @Techyarchivuma 
+ 
+ 
+YDXJXXXX (0001-2000) (Action Cam) @saso1901 
+ 
+ 
+0XXXX.MTS (0000-2000) (Camera) @YeoungBraxx 
+ 
+ 
+SSPXXXXX (0001-2000) (Camera) 
+ 
+ 
+00XXXXA (0001-2000) (Action Cam) 
+ 
+ 
+IMAGXXXX (0000-2000) (Camera) @Piggypiggyyoinkyoink 
+ 
+ 
+CXXXX (0000-2000) (Camera) @A0V1 
+ 
+ 
+SUNPXXXX (0000-1500) (Camera) @Ron2600_ 
+ 
+ 
+Picture XXX (001-1220) (Phone) @Techyarchivuma 
+ 
+ 
+PC10XXXX (0001-1050) (Camera) 
+ 
+ 
+PTDCXXXX (0000-1000) (Camera) @PrimeroAtreides 
+ 
+ 
+ВидеоXXXX (0000-1000) (Camera) (Russia) @_Mag10_ 
+ 
+ 
+VCLPXXXX (0001-1000) (Camera) @__atob__ 
+ 
+ 
+FHDXXXX (0001-1000) (Action Cam) @Mackhill8851 
+ 
+ 
+Moto_0XXX (000-999) (Phone) @Jannik323 
+ 
+ 
+WEB_0XXX (001-999) (Camera) @GaspacoZanis 
+ 
+ 
+P1XX0XXX (01-35) (001-999) (Camera) 
+ 
+ 
+im000XXX (001-899) (Camera) @Lorenzorentniop717 
+ 
+ 
+ZOOM0XXX (001-800) (Camera) @Alexanderhunt9263 
+ 
+ 
+SV A0XXX (001-600) (Camera) @Mackhill8851 
+ 
+ 
+Videoplayback XXX (1-500) (Misc) 
+ 
+ 
+GEDV0XXX (001-500) (Camera) @Mackhill8851 
+ 
+ 
+“0001 0XXX” (019-500) (Blender 3D) @BladeOscReal 
+ 
+ 
+ACTP0XXX (001-400) (Action Cam) @Mackhill8851 
+ 
+ 
+PAXX0XXX (00-30) (001-499) (Camera) 
+ 
+ 
+PBXX0XXX (00-30) (001-499) (Camera) 
+ 
+ 
+IM000XXX (000-400) (Trail Cam / Camera) 
+ 
+ 
+MAV 0XXX (000-399) (Camera) (Japan) 
+ 
+ 
+MOVIE 0XXX (000-300) (Camera) @Evanbeckman358 
+ 
+ 
+ANMR0XXX (000-300) (Camera) @Jannik323 
+ 
+ 
+Snímek XXX (001-300) (Camera) (Czech) @Jannik323 
+ 
+ 
+DIGI0XXX (001-300) (Camera) @Mackhill8851 
+ 
+ 
+ASF 0XXX (001-300) (Camera) @Evanbeckman358 
+ 
+ 
+VXX0XXX (00-50) (101-300) (Camera) @AymonAdren 
+ 
+ 
+IONX0XXX (001-250) (Camera) @Mackhill8851 
+ 
+VICO0XXX (001-250) (Dashcam) @Mackhill8851 
+ 
+ 
+ArcSoft VideoXXX (1-249) (Camera) @KappenKonundrum 
+ 
+ 
+PRMS0XXX (001-200) (Trail Cam) @Chloe.in.mae 
+ 
+ 
+SMOV0XXX (001-200) (Camera) @Mackhill8851 
+ 
+ 
+RCA 0XXX (001-200) (Camera) @Evanbeckman358 
+ 
+ 
+MOVA0XXX (001-200) (Camera) @Mackhill8851 
+ 
+ 
+“Sequence XXX” (001-200) (Video Editor) 
+ 
+ 
+WideoXXX (000-199) (Camera) @EvilyArised 
+ 
+ 
+MAX 0XXX (001-150) (Drone) @UsuallyLime 
+ 
+ 
+MDGC0XXX (001-150) (Trail Cam) @Evanbeckman358 
+ 
+ 
+PCDV0XXX (001-150) (Camera) @Ron2600_ 
+ 
+ 
+HD0 0XXX (000-120) (Camera) @Evanbeckman358 
+ 
+ 
+“Filmato 0XXX” (001-120) (Misc) @Evanbeckman358 
+ 
+ 
+“Il mio filmato X” (1-100) (Misc) (Italy) 
+ 
+ 
+LOOP0XXX (001-100) (Action Cam) @Mackhill8851 
+ 
+ 
+MAX 0XXX (001-100) (Drone) @Evanbeckman358 
+ 
+ 
+SMDC0XXX (001-100) (Camera) @Evanbeckman358 
+ 
+ 
+HUNT0XXX (001-100) (Trail Cam) @Harrisonmoss1310 
+ 
+ 
+ACXS0XXX (001-100) (Action Cam) @saso1901 
+ 
+ 
+MVC XXXV (001-100) (Camera) @Evanlee1 
+ 
+ 
+MA0 00XX (00-99) (Camera) (Japan) 
+ 
+ 
+MMF00XX (00-99) (Camera) @CharlesMontgomeryBurns. 
+ 
+ 
+G01000XX (10-99) (GoPro) 
+ 
+PCXX00XX (00-30) (01-99) (Camera) @Mackhill8851 
+ 
+ 
+“Sequence XX X” (01-99) (1-3) (Video Editor) 
+ 
+“My Project X” (0-50) (Video Editor) @Coletale 
+ 
+"Kazam Screencast 000XX" (01-50) (Screen Recorder) @СтаниславШолтанюк 
+ 
+ 
+CADDX0000XX (01-50) (Drone) @Evanbeckman358 
+ 
+ 
+ZOE 00XX (01-50) (Camera) @Evanbeckman358 
+ 
+ 
+“Video_ts.vob” (DVD) @BastienSante1902 
+ 
+ 
+“MicrosoftTeams Video” (Misc) @H2knad 
+ 
+ 
+“Axon Flex Video” (Body Cam) 
+ 
+ 
+“Test upload” (Misc) 
+ 
+ 
+“Moviemakeronline com” (Misc) @Hrotmaister 
+ 
+ 
+“myvideo convert2video com” (Misc) @Hrotmaister 
+ 
+ 
+"Myvideo imagetovideo com" (Misc) @Hrotmaister 
+ 
+ 
+"I created this video with the YouTube Slideshow Creator" (Video Editor) 
+ 
+ 
+"I created this video with the YouTube Video Editor" (Video Editor) @Infinitysnapz 
+ 
+ 
+“Sent from my blackberry smartphone" (Phone) @Infinitysnapz 
+ 
+ 
+“Video from Tweetcaster” (App) @UsuallyLime 
+ 
+ 
+“My Ezvid Video” (Screen Recorder) @UsuallyLime 
+ 
+ 
+"This video was uploaded from an Android phone" (Phone) @UsuallyLime 
+ 
+ 
+“.VOB” (DVD) @Chernyat5048 
+ 
+ 
+"копия видео" (Misc) (Russia) @sScorpioNn1 
+ 
+ 
+"копия видео Копия видео" (Misc) (Russia) @sScorpioNn1 
+ 
+ 
+“Sprint PictureMail” (Phone) @Evanbeckman358 
+ 
+ 
+“Temp video for share” (Drone) @PianoScoreVids 
+ 
+ 
+“My stop motion movie” (Video Editor) @Huebirdfan2.0 
+ 
+ 
+“XiaoYing video” (Misc) @Hrotmaister 
+ 
+ 
+“Dvgrab” (Camera) @BastienSante1902 
+ 
+ 
+“Stop motion.avi” (Camera) (Stop Motion) @Evanlee1 
+ 
+ 
+“QuickCapture Video - Month D, YYYY” (Webcam) (>2007, <2013) @Pagenonfound 
+ 
+Webcam YYYYMMDD (Webcam) (>2007, <2010) @GaspacoZanis 
+ 
+ 
+Webcam Recorded Video - Month D, YYYY (Webcam) (>2008, <2010) 
+ 
+ 
+Webcam video Month D, YYYY (Webcam) (>2010, <2012) 
+ 
+ 
+“Project of DD Mth 2011 PDT” (Video Editor) @Machine___angel 
+ 
+ 
+Webcam video from Month D, YYYY (Webcam) (>2011, <2016) @flizzycat 
+ 
+ 
+SCR YYYYMMDD (Screen Recorder) (>2014, <2018) @GaspacoZanis 
+ 
+ 
+Flipagram Month YYYY (Video Editor) (>2013, <2019) @Evanbeckman358 
+ 
+ 
+Iw3mp YYYYMMDD (Game Capture) (>2008, <2020) (COD 4) @Zeebdy 
+ 
+ 
+"AR.Drone 2.0 Video: YYYY” (Drone) (>2015, <2021) @Whenwhowhathow 
+ 
+ 
+WA VID YYYYMMDD (App) (>2018, <2023) @Hrotmaister 
+ 
+ 
+XRecorder DDMMYYYY (Screen Recorder) (>2021, <2024) @Dayve8977 
+ 
+ 
+CODWAWMP YYYY MM DD (Game Capture) (>2008, <2023) (COD WAW) @Zeebdy 
+ 
+ 
+Hl2 YYYY MM DD (Game Capture) (>2008, <2023) (Half Life) @Zeebdy 
+ 
+ 
+Grand Theft Auto 5 YYYY MM DD (Game Capture) (>2008) (GTA V) @Laxesthecorgi9824 
+ 
+ 
+Javaw YYYY MM DD (Game Capture) (>2009) @Mort3534 
+ 
+ 
+Chrome YYYY MM DD (Screen Recorder) (>2010) @Lemonposting 
+ 
+ 
+Bandicam YYYY MM DD (Screen Recorder) (>2010) @Thatoneguy59-x9l 
+ 
+ 
+Screen Recording YYYY MM DD (Screen Recorder) (>2012) @Qrde 
+ 
+ 
+YouCut YYYYMMDD (Video Editor) (>May 2018) 
+ 
+ 
+Km YYYYMMDD (Video Editor) (>2021) @AFasterSlowpoke 
+ 
+ 
+Simplescreenrecorder YYYY MM DD (Screen Recorder) (>2023) @RadieForge 
+ 
+720p YYMMDD (VYond / GoAnimate) (>2023) @AFasterSlowpoke 
+ 
+ 
+XRecorder YYYYMMDD (Screen Recorder) (>2024) @Dayve8977 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________________________________________________ 
+ 
+ 
+YouTube’s Recycle Bin 
+Maps 
+____________________________________________________________________________ 
+ 
+ 
+Find low-view videos from 2006-2008 
+ 
+ 
+Map Legend: Keyphrase Keyphrase Variable (Variable Example) [Search Example] Source (Additional Info) @Shoutout/Credit 
+ 
+ 
+ 
+Sort by: View Count (Optional) 
+ 
+ 
+Search Tools: Before:(Year) [Before:2008]. Quotations (“ ”) [“lol” Before:2006] 
+ 
+ 
+ 
+ 
+ 
+ 
+“You have new picture mail! (video)” (Phone) 
+ 
+ 
+“Media1.3gp” (Phone) 
+ 
+ 
+“Media1.3g2” (Phone) 
+ 
+ 
+“Video.3g2” (Misc) 
+ 
+“New Multimedia Message” (Phone) 
+ 
+“Multimedia Message” (Phone) 
+ 
+ 
+“Video from my phone” (Phone) 
+ 
+“Video uploaded from my mobile phone” (Phone) 
+ 
+ 
+“For Month DD, YYYY” [“For December 02, 2007”] (Phone) 
+ 
+ 
+“Recorded on Month DD, YYYY using a Flip Video Camcorder” (Camera) @Hassan-zw9tb 
+ 
+ 
+Video0XX (00-10) [Video001] (Camera) 
+ 
+ 
+Vid0XX (00-10) (Camera) 
+ 
+ 
+MOV000XX (00-10) (Camera) 
+ 
+ 
+“Recorded on Month DD, YYYY using a Flip Video Camera” (Camera) 
+ 
+ 
+“Created on Month DD, YYYY using FlipShare” (Camera) 
+ 
+ 
+“Video van Mijn telefoon” (Phone) (Netherlands) 
+ 
+ 
+"video geüpload van mijn mobiel" (Phone) (Netherlands) 
+ 
+ 
+“Vídeo desde mi teléfono” (Phone) 
+ 
+ 
+"vídeo subido desde mi teléfono móvil" (Phone) 
+ 
+ 
+muuvee00XX (00-40) (Video Editor) @GaspacoZanis 
+ 
+ 
+0_VIDEO_0XX (01-54) (Phone) @GaspacoZanis 
+ 
+ 
+"You have received a new message" (Phone) @i664k 
+ 
+ 
+“My Great Movie” (Video Editor) @Chernyat5048 
+ 
+ 
+“My First Project” (Video Editor) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+____________________________________________________________________________ 
+ 
+ 
+YouTube’s Recycle Bin 
+Special Thanks / Credits 
+____________________________________________________________________________ 
+ 
+ 
+Shout out to everyone who has helped out with adding new leads to the map. I’m definitely missing a few of you, but I will add as many as I can here. I genuinely couldn’t have gotten this far without all of you. 
+ 
+ 
+ 
+ 
+@Junoeclipse7715 
+ 
+ 
+@ZuperDarkk 
+ 
+ 
+@zxz41_Kristian 
+ 
+ 
+@TheLimeyDragon 
+ 
+ 
+@nellip.683 
+ 
+ 
+@Hassan-zw9tb 
+ 
+ 
+@Oopse47 
+ 
+ 
+@slurrygeyser8133 
+ 
+ 
+@denzelkrocker1673 
+ 
+ 
+ 
+@Set_Your_Handle10 
+ 
+@StormSplurge 
+ 
+@CharlesMontgomeryBurns. 
+ 
+ 
+ 
+ 
+ 
+@kyle6266 
+ 
+ 
+@czechgop7631 
+ 
+ 
+@KILOPOWER 
+ 
+ 
+ 
+ 
+@T1MAGEDDON 
+ 
+@stickmandaninacan 
+ 
+ 
+@blissom 
+ 
+ 
+@thevoid6756 
+ 
+@Jannik323 
+ 
+ 
+@Coletale 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@Laxesthecorgi9824 
+ 
+ 
+@Infinitysnapz 
+ 
+ 
+@AymonAdren 
+ 
+ 
+@misterherman 
+ 
+ 
+@Fraigo 
+ 
+ 
+@UsuallyLime 
+ 
+ 
+@Thatoneguy59-x9l 
+ 
+ 
+ @Chernyat5048 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ @BladeOscReal 
+ 
+ 
+@sScorpioNn1 
+ 
+ 
+@H2knad 
+ 
+ 
+ @СтаниславШолтанюк 
+ 
+ 
+@Lorenzorentniop717 
+ 
+ 
+@Mort3534 
+ 
+ 
+ 
+ 
+@_Mag10_ 
+ 
+ 
+@EvilyArised 
+ 
+ 
+@Evanbeckman358 
+ 
+ 
+@i664k 
+ 
+ 
+@Piggypiggyyoinkyoink 
+ 
+ 
+ @AFasterSlowpoke 
+ 
+ 
+ 
+ 
+@Pagenonfound 
+ 
+ 
+ 
+ 
+ @flizzycat 
+ 
+ 
+ @PianoScoreVids 
+ 
+ 
+ @Ron2600_ 
+ 
+ 
+@Huebirdfan2.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@Hrotmaister 
+ 
+ 
+@Harrisonmoss1310 
+ 
+ 
+@Dayve8977 
+ 
+ 
+@Zeebdy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@Lemonposting 
+ 
+ 
+@Dontzky 
+ 
+ 
+@Alexanderhunt9263 
+ 
+ 
+ @Techyarchivuma 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@Mackhill8851 
+ 
+ 
+ @A0V1 
+ 
+ 
+@PrimeroAtreides 
+ 
+ 
+@YeoungBraxx 
+ 
+ 
+ 
+ 
+ @BastienSante1902 
+ 
+ 
+@RadieForge 
+ 
+ 
+@GaspacoZanis 
+ 
+ 
+ 
+ 
+@Qrde 
+ 
+ 
+@saso1901 
+ 
+ 
+ 
+ 
+@__atob__ 
+ 
+ 
+ 
+@Whenwhowhathow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@Machine___angel 
+ 
+ 
+ 
+@KappenKonundrum 
+ 
+ 
+ 
+@Chloe.in.mae 
+ 
+ 
+ 
+@Evanlee1 
+ 
+ 
+ 
+ 
+@Daldosbm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+@PnfrmEnm

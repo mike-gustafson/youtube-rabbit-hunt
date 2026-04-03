@@ -1,0 +1,8 @@
+.DS_Store
+web/node_modules/
+web/dist/
+
+# Xcode (after running xcodegen)
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+DerivedData/

@@ -1,0 +1,8 @@
+{
+  "name": "youtube-rabbit-hunt",
+  "private": true,
+  "scripts": {
+    "catalog:build": "node scripts/build-yrb-catalog.mjs",
+    "catalog:migrate-dates": "node scripts/migrate-ymd-to-date-segments.mjs"
+  }
+}

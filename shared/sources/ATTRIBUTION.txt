@@ -1,0 +1,9 @@
+youtube-recycle-bin.txt is a plain-text export of the community-maintained list
+“YouTube’s Recycle Bin” (KVN AUST et al.).
+
+Source document (export as .txt from Google Docs):
+https://docs.google.com/document/d/1mV5PhumaIJ8mtH8XmohqXkk5fjK_HlqcineMccPQm5A/
+
+Refresh: File → Download → Plain text, then replace this file and run
+  node scripts/build-yrb-catalog.mjs
+from the repository root (merges into shared/element_catalog.json).

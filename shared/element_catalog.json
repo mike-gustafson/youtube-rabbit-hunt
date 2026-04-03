@@ -1,0 +1,3302 @@
+{
+  "version": 4,
+  "categories": [
+    {
+      "id": "action_cameras",
+      "title": "Action cameras"
+    },
+    {
+      "id": "body_cameras",
+      "title": "Body cameras"
+    },
+    {
+      "id": "digicam",
+      "title": "Digital cameras (DCIM-style)"
+    },
+    {
+      "id": "drone_dashcam",
+      "title": "Drones & dashcams"
+    },
+    {
+      "id": "dvd_vob",
+      "title": "DVD & VOB"
+    },
+    {
+      "id": "formats",
+      "title": "File extensions"
+    },
+    {
+      "id": "game_capture",
+      "title": "Game capture"
+    },
+    {
+      "id": "misc",
+      "title": "Misc"
+    },
+    {
+      "id": "misc_apps",
+      "title": "Apps & messaging"
+    },
+    {
+      "id": "phone_mms",
+      "title": "Phones & MMS / carrier"
+    },
+    {
+      "id": "screen_recorder",
+      "title": "Screen recording"
+    },
+    {
+      "id": "smartphone",
+      "title": "Smartphone filenames"
+    },
+    {
+      "id": "video_editor",
+      "title": "Video editors & slideshows"
+    },
+    {
+      "id": "webcams",
+      "title": "Webcams"
+    }
+  ],
+  "elements": [
+    {
+      "id": "axon_six_lower",
+      "categoryId": "body_cameras",
+      "title": "axon + 6 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "axon"
+        },
+        {
+          "kind": "digits",
+          "count": 6,
+          "min": 0,
+          "max": 999999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "axon_six_upper",
+      "categoryId": "body_cameras",
+      "title": "AXON + 6 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "AXON"
+        },
+        {
+          "kind": "digits",
+          "count": 6,
+          "min": 0,
+          "max": 999999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "bwc_underscore_six",
+      "categoryId": "body_cameras",
+      "title": "BWC_ + 6 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "BWC_"
+        },
+        {
+          "kind": "digits",
+          "count": 6,
+          "min": 0,
+          "max": 999999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "dsc_five",
+      "categoryId": "digicam",
+      "title": "DSC + 5 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DSC"
+        },
+        {
+          "kind": "digits",
+          "count": 5,
+          "min": 0,
+          "max": 99999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "dsc_four",
+      "categoryId": "digicam",
+      "title": "DSC + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DSC"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "gopr_four_zero",
+      "categoryId": "action_cameras",
+      "title": "GOPR0 + 3 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GOPR0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "gopro_four",
+      "categoryId": "action_cameras",
+      "title": "GOPR + 4 digits (GoPro)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GOPR"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "img_four_digit",
+      "categoryId": "webcams",
+      "title": "IMG + 4 digits (0000–9999) — matches “IMG 3201” style",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "IMG "
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "img_lower_four",
+      "categoryId": "webcams",
+      "title": "img + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "img"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "mov_four",
+      "categoryId": "digicam",
+      "title": "MOV + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOV"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "mvi_underscore",
+      "categoryId": "digicam",
+      "title": "MVI_ + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MVI_"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "p_four_digit",
+      "categoryId": "digicam",
+      "title": "P + 4 digits (e.g. Panasonic)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "P"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "vid_four",
+      "categoryId": "digicam",
+      "title": "VID + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VID"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "watchguard_four",
+      "categoryId": "body_cameras",
+      "title": "WG_ + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WG_"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "wolfcom_wc_four",
+      "categoryId": "body_cameras",
+      "title": "WC- + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WC-"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "wp_underscore_four",
+      "categoryId": "digicam",
+      "title": "WP_ + 4 digits",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WP_"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_0_video_0_2_1_54",
+      "categoryId": "phone_mms",
+      "title": "0_VIDEO_0XX (01-54) (Phone) @GaspacoZanis",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "0_VIDEO_0"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 1,
+          "max": 54,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_100_4_0_9999",
+      "categoryId": "digicam",
+      "title": "100 XXXX (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "100"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_4_0_1000",
+      "categoryId": "digicam",
+      "title": "ВидеоXXXX (0000-1000) (Camera) (Russia) @_Mag10_",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Видео"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_8_19900101_20351231",
+      "categoryId": "misc",
+      "title": "YYYYMMDD [20250102] (Misc) (YMD = YearMonthDay)",
+      "segments": [
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_actp0_3_1_400",
+      "categoryId": "action_cameras",
+      "title": "ACTP0XXX (001-400) (Action Cam) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ACTP0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 400,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_acxs0_3_1_100",
+      "categoryId": "action_cameras",
+      "title": "ACXS0XXX (001-100) (Action Cam) @saso1901",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ACXS0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_amba_4_1_5000",
+      "categoryId": "action_cameras",
+      "title": "AMBAXXXX (0001-5000) (Action Cam) @saso1901",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "AMBA"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 5000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_anmr0_3_0_300",
+      "categoryId": "digicam",
+      "title": "ANMR0XXX (000-300) (Camera) @Jannik323",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ANMR0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 300,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_arcsoft_video_3_1_249",
+      "categoryId": "digicam",
+      "title": "ArcSoft VideoXXX (1-249) (Camera) @KappenKonundrum",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ArcSoft Video"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 249,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_asf_0_3_1_300",
+      "categoryId": "digicam",
+      "title": "ASF 0XXX (001-300) (Camera) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ASF 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 300,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_avi_0_3_1_150",
+      "categoryId": "digicam",
+      "title": "AVI 0XXX (001-150) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "AVI 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 150,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_avi00_3_0_100",
+      "categoryId": "digicam",
+      "title": "AVI00XXX (000-100) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "AVI00"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_avseq_2_0_99",
+      "categoryId": "misc",
+      "title": "AVSEQXX (00-99) (Misc) @Set_Your_Handle10",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "AVSEQ"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 99,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_c_4_0_2000",
+      "categoryId": "digicam",
+      "title": "CXXXX (0000-2000) (Camera) @A0V1",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "C"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_caddx0000_2_1_50",
+      "categoryId": "drone_dashcam",
+      "title": "CADDX0000XX (01-50) (Drone) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "CADDX0000"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 1,
+          "max": 50,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_cam0_4_0_5000",
+      "categoryId": "digicam",
+      "title": "CAM0XXXX (0000-5000) (Camera) @Denzelkrocker1673",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "CAM0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 5000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_capture_8_19900101_20351231",
+      "categoryId": "webcams",
+      "title": "Capture YYYYMMDD (Webcam) @thevoid6756",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Capture "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_cimg_4_0_9999",
+      "categoryId": "digicam",
+      "title": "CIMGXXXX (0000-9999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "CIMG"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_clip_4_0_2000",
+      "categoryId": "misc",
+      "title": "ClipXXXX (0000-2000) (Misc) @Techyarchivuma",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Clip"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_digi0_3_1_300",
+      "categoryId": "digicam",
+      "title": "DIGI0XXX (001-300) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DIGI0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 300,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_dji_4_0_2000",
+      "categoryId": "drone_dashcam",
+      "title": "DJI XXXX (0000-2000) (Drone) @CharlesMontgomeryBurns.",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DJI"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_dsc_0_4_0_5000",
+      "categoryId": "digicam",
+      "title": "DSC 0XXXX (0000-5000) (Camera) @__atob__",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DSC 0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 5000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_dscf_4_0_9999",
+      "categoryId": "digicam",
+      "title": "DSCFXXXX (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DSCF"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_dsci_4_1_4000",
+      "categoryId": "digicam",
+      "title": "DSCIXXXX (0001-4000) (Camera) @Dontzky",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DSCI"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 4000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_dscn_4_0_9999",
+      "categoryId": "digicam",
+      "title": "DSCNXXXX (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "DSCN"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_fhd_4_1_1000",
+      "categoryId": "action_cameras",
+      "title": "FHDXXXX (0001-1000) (Action Cam) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "FHD"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_file_4_0_9999",
+      "categoryId": "drone_dashcam",
+      "title": "FILEXXXX (Dashcam)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "FILE"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_g01000_2_10_99",
+      "categoryId": "action_cameras",
+      "title": "G01000XX (10-99) (GoPro)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "G01000"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 10,
+          "max": 99,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_gedc_4_0_9999",
+      "categoryId": "digicam",
+      "title": "GEDCXXXX (0000-9999) (Camera) @CharlesMontgomeryBurns.",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GEDC"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_gedv0_3_1_500",
+      "categoryId": "digicam",
+      "title": "GEDV0XXX (001-500) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GEDV0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 500,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_gh01_4_0_9999",
+      "categoryId": "action_cameras",
+      "title": "GH01XXXX (GoPro)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GH01"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_gp01_4_0_9999",
+      "categoryId": "action_cameras",
+      "title": "GP01XXXX (GoPro)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GP01"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_gx01_4_0_9999",
+      "categoryId": "action_cameras",
+      "title": "GX01XXXX (GoPro)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "GX01"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_hd0_0_3_0_120",
+      "categoryId": "digicam",
+      "title": "HD0 0XXX (000-120) (Camera) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "HD0 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 120,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_hdv_4_1_5000",
+      "categoryId": "digicam",
+      "title": "HDV XXXX (0001-5000) (Camera) @YeoungBraxx",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "HDV"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 5000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_hni_0_3_0_100",
+      "categoryId": "digicam",
+      "title": "HNI 0XXX (000-100) (Nintendo DS) @KILOPOWER",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "HNI 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_hpim_4_0_9999",
+      "categoryId": "digicam",
+      "title": "HPIMXXXX (0000-9999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "HPIM"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_hunt0_3_1_100",
+      "categoryId": "digicam",
+      "title": "HUNT0XXX (001-100) (Trail Cam) @Harrisonmoss1310",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "HUNT0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_im000_3_0_400",
+      "categoryId": "digicam",
+      "title": "IM000XXX (000-400) (Trail Cam / Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "IM000"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 400,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_im000_3_1_899",
+      "categoryId": "digicam",
+      "title": "im000XXX (001-899) (Camera) @Lorenzorentniop717",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "im000"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 899,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_imag_4_0_2000",
+      "categoryId": "digicam",
+      "title": "IMAGXXXX (0000-2000) (Camera) @Piggypiggyyoinkyoink",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "IMAG"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_imgp_4_0_9999",
+      "categoryId": "digicam",
+      "title": "IMGPXXXX (0000-9999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "IMGP"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_inshot_8_19900101_20351231",
+      "categoryId": "misc_apps",
+      "title": "InShot YYYYMMDD (App)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "InShot "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_ionx0_3_1_250",
+      "categoryId": "digicam",
+      "title": "IONX0XXX (001-250) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "IONX0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 250,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_iw3mp_8_19900101_20351231",
+      "categoryId": "game_capture",
+      "title": "Iw3mp YYYYMMDD (Game Capture) (>2008, <2020) (COD 4) @Zeebdy",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Iw3mp "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2009,
+          "yearMax": 2019
+        }
+      ]
+    },
+    {
+      "id": "yrb_km_8_19900101_20351231",
+      "categoryId": "video_editor",
+      "title": "KM YYYYMMDD (Video Editor) @AFasterSlowpoke",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "KM "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_km_8_19900101_20351231_4269d3",
+      "categoryId": "video_editor",
+      "title": "Km YYYYMMDD (Video Editor) (>2021) @AFasterSlowpoke",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Km "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2022,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_kvid_4_0_1000",
+      "categoryId": "digicam",
+      "title": "KVIDXXXX (0000-1000) (Camera) @Junoeclipse7715",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "KVID"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_015b296551a8",
+      "categoryId": "formats",
+      "title": "“.3gp” (Format)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".3gp"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_03b311113338",
+      "categoryId": "phone_mms",
+      "title": "“Vídeo desde mi teléfono” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Vídeo desde mi teléfono"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_05985be40322",
+      "categoryId": "body_cameras",
+      "title": "“Axon Body * Video” (Body Cam)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Axon Body * Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_078e09f483f8",
+      "categoryId": "formats",
+      "title": "“.MP4” (Format)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".MP4"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_0ca24dca1460",
+      "categoryId": "video_editor",
+      "title": "“Sequence XX X” (01-99) (1-3) (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Sequence XX X"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_220892f97f46",
+      "categoryId": "dvd_vob",
+      "title": "“Video_ts.vob” (DVD) @BastienSante1902",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video_ts.vob"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_229d915d0ee1",
+      "categoryId": "digicam",
+      "title": "“Dvgrab” (Camera) @BastienSante1902",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Dvgrab"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_2b1ba70bd263",
+      "categoryId": "screen_recorder",
+      "title": "\"Kazam Screencast 000XX\" (01-50) (Screen Recorder) @СтаниславШолтанюк",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Kazam Screencast 000XX"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_2db026f5c222",
+      "categoryId": "misc",
+      "title": "“Copy of Copy of” (Misc) @TheLimeyDragon",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Copy of Copy of"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_2e5be5a76f01",
+      "categoryId": "video_editor",
+      "title": "“Il mio filmato X” (1-100) (Misc) (Italy)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Il mio filmato X"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_2f9f256185a1",
+      "categoryId": "misc",
+      "title": "\"Myvideo imagetovideo com\" (Misc) @Hrotmaister",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Myvideo imagetovideo com"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_34d785234a11",
+      "categoryId": "misc",
+      "title": "\"копия видео\" (Misc) (Russia) @sScorpioNn1",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "копия видео"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_359a33c262fa",
+      "categoryId": "misc",
+      "title": "“Video Assignment” (Misc) (School Projects)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video Assignment"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_35b8f23f799f",
+      "categoryId": "phone_mms",
+      "title": "“New Multimedia Message” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "New Multimedia Message"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_38111d425e6e",
+      "categoryId": "misc",
+      "title": "“My Movie X” [”My Movie 1”] (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Movie X"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_38912c019e4d",
+      "categoryId": "screen_recorder",
+      "title": "“Bandicam” (Screen Recording)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Bandicam"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_3ad30f7898c3",
+      "categoryId": "phone_mms",
+      "title": "\"vídeo subido desde mi teléfono móvil\" (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "vídeo subido desde mi teléfono móvil"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_3c09d70aad69",
+      "categoryId": "phone_mms",
+      "title": "“Media1.3gp” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Media1.3gp"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_3cd8085fd8ba",
+      "categoryId": "phone_mms",
+      "title": "“Media1.3g2” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Media1.3g2"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_3f4692d2738c",
+      "categoryId": "formats",
+      "title": "“.WMV” (Format)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".WMV"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_41e2b829beb7",
+      "categoryId": "video_editor",
+      "title": "\"I created this video with the YouTube Slideshow Creator\" (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "I created this video with the YouTube Slideshow Creator"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_44008bd50f2e",
+      "categoryId": "phone_mms",
+      "title": "“Multimedia Message” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Multimedia Message"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_4893e5b48ee3",
+      "categoryId": "phone_mms",
+      "title": "\"This video was uploaded from an Android phone\" (Phone) @UsuallyLime",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "This video was uploaded from an Android phone"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_4ec297912a8d",
+      "categoryId": "misc",
+      "title": "“Moviemakeronline com” (Misc) @Hrotmaister",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Moviemakeronline com"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_523a7f63fe34",
+      "categoryId": "misc",
+      "title": "“XiaoYing video” (Misc) @Hrotmaister",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "XiaoYing video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_5556c93f5bd6",
+      "categoryId": "phone_mms",
+      "title": "\"video geüpload van mijn mobiel\" (Phone) (Netherlands)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "video geüpload van mijn mobiel"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_5bb9279b5cf0",
+      "categoryId": "phone_mms",
+      "title": "“Sprint PictureMail” (Phone) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Sprint PictureMail"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_5d18cf8cdec2",
+      "categoryId": "video_editor",
+      "title": "“My Videolicious Video” (Video Editor) @slurrygeyser8133",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Videolicious Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_616949d91613",
+      "categoryId": "phone_mms",
+      "title": "“Video uploaded from my mobile phone” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video uploaded from my mobile phone"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_64cea2e27d72",
+      "categoryId": "misc",
+      "title": "“Less than 100 views?”",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Less than 100 views?"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_661cbcba911f",
+      "categoryId": "video_editor",
+      "title": "“Untitled Design” (Video Editor) @BladeOscReal",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Untitled Design"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_6ad1eded81e4",
+      "categoryId": "video_editor",
+      "title": "“Filmato 0XXX” (001-120) (Misc) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Filmato 0XXX"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_6b56d8abebe9",
+      "categoryId": "video_editor",
+      "title": "“My stop motion movie” (Video Editor) @Huebirdfan2.0",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My stop motion movie"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_6f0213a92352",
+      "categoryId": "phone_mms",
+      "title": "“Video van Mijn telefoon” (Phone) (Netherlands)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video van Mijn telefoon"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_6fa596565187",
+      "categoryId": "video_editor",
+      "title": "“My First Project” (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My First Project"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_72673ef70493",
+      "categoryId": "misc",
+      "title": "“Com Oculus Metacam” (VR Headset)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Com Oculus Metacam"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_743778f85ca4",
+      "categoryId": "misc",
+      "title": "“myvideo convert2video com” (Misc) @Hrotmaister",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "myvideo convert2video com"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_8067ea931b58",
+      "categoryId": "phone_mms",
+      "title": "“Video from my phone” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video from my phone"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_81af7a7fc14f",
+      "categoryId": "phone_mms",
+      "title": "“Video Output” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video Output"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_83667c000c3a",
+      "categoryId": "formats",
+      "title": "“.AVI” (Format)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".AVI"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_84d570acb182",
+      "categoryId": "formats",
+      "title": "“Video.3g2” (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video.3g2"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_8a6ee33fdfcf",
+      "categoryId": "misc",
+      "title": "“Untitled video” (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Untitled video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_8f6a9d5fed43",
+      "categoryId": "screen_recorder",
+      "title": "“My Ezvid Video” (Screen Recorder) @UsuallyLime",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Ezvid Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_93a4d9869306",
+      "categoryId": "video_editor",
+      "title": "“Sequence XXX” (001-200) (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Sequence XXX"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a0d296c43abb",
+      "categoryId": "video_editor",
+      "title": "“My Slideshow Video” (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Slideshow Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a14fcf4655cb",
+      "categoryId": "misc",
+      "title": "“0001 0XXX” (019-500) (Blender 3D) @BladeOscReal",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "0001 0XXX"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a246cc147aae",
+      "categoryId": "misc",
+      "title": "“MicrosoftTeams Video” (Misc) @H2knad",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MicrosoftTeams Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a37aa0cf4f21",
+      "categoryId": "body_cameras",
+      "title": "“Axon Flex Video” (Body Cam)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Axon Flex Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a45c030ef0e4",
+      "categoryId": "misc",
+      "title": "“Test upload” (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Test upload"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a4a29ddccfcc",
+      "categoryId": "misc",
+      "title": "\"копия видео Копия видео\" (Misc) (Russia) @sScorpioNn1",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "копия видео Копия видео"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a72682e7d666",
+      "categoryId": "formats",
+      "title": "“.WAV” (Format) (User-created music)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".WAV"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_a75d53e44d0e",
+      "categoryId": "video_editor",
+      "title": "“Untitled Video Made with Clipchamp” (Video Editor) @Jannik323",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Untitled Video Made with Clipchamp"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_aaf44bc8867d",
+      "categoryId": "video_editor",
+      "title": "“My Project X” (0-50) (Video Editor) @Coletale",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Project X"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_b111ce4260ff",
+      "categoryId": "video_editor",
+      "title": "“My Stupeflix Video” (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Stupeflix Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_b81b4455895d",
+      "categoryId": "video_editor",
+      "title": "“Sequence 01 1” (Video Editor) @ZuperDarkk",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Sequence 01 1"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_bf95d78228fa",
+      "categoryId": "game_capture",
+      "title": "“Javaw” (Game Capture) (Minecraft)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Javaw"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_c503ef843c63",
+      "categoryId": "dvd_vob",
+      "title": "“.VOB” (DVD) @Chernyat5048",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".VOB"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_c93cc23a2ea5",
+      "categoryId": "video_editor",
+      "title": "“My Edited Video” (Video editor) @CharlesMontgomeryBurns.",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Edited Video"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_cd267fff7349",
+      "categoryId": "video_editor",
+      "title": "\"I created this video with the YouTube Video Editor\" (Video Editor) @Infinitysnapz",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "I created this video with the YouTube Video Editor"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_d05537f64e52",
+      "categoryId": "formats",
+      "title": "“.FLAC” (Format) (Copyright music)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".FLAC"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_d192141e157f",
+      "categoryId": "misc",
+      "title": "“Com Oculus Vrshell” (VR Headset)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Com Oculus Vrshell"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_d3174288ccab",
+      "categoryId": "phone_mms",
+      "title": "“You have new picture mail! (video)” (Phone)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "You have new picture mail! (video)"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_d8045c78ee18",
+      "categoryId": "video_editor",
+      "title": "“My Great Movie” (Video Editor) @Chernyat5048",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Great Movie"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_d8db4a90a3ad",
+      "categoryId": "formats",
+      "title": "“Stop motion.avi” (Camera) (Stop Motion) @Evanlee1",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Stop motion.avi"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_dcd2044a675e",
+      "categoryId": "phone_mms",
+      "title": "\"You have received a new message\" (Phone) @i664k",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "You have received a new message"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_dd50143f130c",
+      "categoryId": "drone_dashcam",
+      "title": "“Temp video for share” (Drone) @PianoScoreVids",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Temp video for share"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_e1684fc3bb72",
+      "categoryId": "formats",
+      "title": "“.MOV” (Format)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".MOV"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_e217aca6ed3b",
+      "categoryId": "phone_mms",
+      "title": "“Video from Tweetcaster” (App) @UsuallyLime",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video from Tweetcaster"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_e3fdebbe69f5",
+      "categoryId": "drone_dashcam",
+      "title": "\"AR.Drone 2.0 Video: YYYY” (Drone) (>2015, <2021) @Whenwhowhathow",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "AR.Drone 2.0 Video: YYYY"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_e6b5fb942208",
+      "categoryId": "video_editor",
+      "title": "“My Slideshow” (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Slideshow"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_eef28c7c026c",
+      "categoryId": "phone_mms",
+      "title": "“Sent from my blackberry smartphone\" (Phone) @Infinitysnapz",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Sent from my blackberry smartphone"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_efc76899f148",
+      "categoryId": "video_editor",
+      "title": "“My Slideshow XX” (00-99) (Video Editor)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "My Slideshow XX"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_f33781b35c27",
+      "categoryId": "formats",
+      "title": "“.3g2” (Format) @Pagenonfound",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": ".3g2"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_f5d85944ad49",
+      "categoryId": "misc",
+      "title": "“What percentage of YouTube videos have less than 1000 views?”",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "What percentage of YouTube videos have less than 1000 views?"
+        }
+      ]
+    },
+    {
+      "id": "yrb_lit_fbf26bf183cf",
+      "categoryId": "misc",
+      "title": "“Injected” (360 Video) (Filter: 360 Video) @PnfrmEnm",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Injected"
+        }
+      ]
+    },
+    {
+      "id": "yrb_loop0_3_1_100",
+      "categoryId": "action_cameras",
+      "title": "LOOP0XXX (001-100) (Action Cam) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "LOOP0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_m2u0_4_0_9999",
+      "categoryId": "action_cameras",
+      "title": "M2U0XXXX (0000-9999) (Camcorder) @blissom",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "M2U0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_m4h0_4_0_9999",
+      "categoryId": "digicam",
+      "title": "M4H0XXXX (0000-9999) (Camera) @Fraigo",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "M4H0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_m4v0_4_0_9999",
+      "categoryId": "digicam",
+      "title": "M4V0XXXX (0000-9999) (Camera) @AymonAdren",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "M4V0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_ma0_00_2_0_99",
+      "categoryId": "digicam",
+      "title": "MA0 00XX (00-99) (Camera) (Japan)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MA0 00"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 99,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mah0_4_0_9999",
+      "categoryId": "digicam",
+      "title": "MAH0XXXX (0000-9999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MAH0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_maq0_4_0_9999",
+      "categoryId": "digicam",
+      "title": "MAQ0XXXX (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MAQ0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mav_0_3_0_399",
+      "categoryId": "digicam",
+      "title": "MAV 0XXX (000-399) (Camera) (Japan)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MAV 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 399,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_max_0_3_1_100",
+      "categoryId": "drone_dashcam",
+      "title": "MAX 0XXX (001-100) (Drone) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MAX 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_max_0_3_1_150",
+      "categoryId": "drone_dashcam",
+      "title": "MAX 0XXX (001-150) (Drone) @UsuallyLime",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MAX 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 150,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mdgc0_3_1_150",
+      "categoryId": "digicam",
+      "title": "MDGC0XXX (001-150) (Trail Cam) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MDGC0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 150,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mmf00_2_0_99",
+      "categoryId": "digicam",
+      "title": "MMF00XX (00-99) (Camera) @CharlesMontgomeryBurns.",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MMF00"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 99,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mol0_2_0_99",
+      "categoryId": "misc",
+      "title": "MOL0XX (00-99)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOL0"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 99,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_moto_0_3_0_999",
+      "categoryId": "phone_mms",
+      "title": "Moto_0XXX (000-999) (Phone) @Jannik323",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Moto_0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mov0_4_0_9999",
+      "categoryId": "digicam",
+      "title": "MOV0XXXX (0000-9999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOV0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mov000_2_0_10",
+      "categoryId": "digicam",
+      "title": "MOV000XX (00-10) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOV000"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 10,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mova0_3_1_200",
+      "categoryId": "digicam",
+      "title": "MOVA0XXX (001-200) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOVA0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 200,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_movi_4_0_1050",
+      "categoryId": "drone_dashcam",
+      "title": "MOVIXXXX (0000-1050) (Drone / Dashcam)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOVI"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1050,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_movie_0_3_0_300",
+      "categoryId": "digicam",
+      "title": "MOVIE 0XXX (000-300) (Camera) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOVIE 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 300,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_muuvee00_2_0_40",
+      "categoryId": "video_editor",
+      "title": "muuvee00XX (00-40) (Video Editor) @GaspacoZanis",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "muuvee00"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 40,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_mvi_4_0_9999",
+      "categoryId": "digicam",
+      "title": "MVI XXXX (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MVI"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_p100_4_0_1999",
+      "categoryId": "digicam",
+      "title": "P100XXXX (0000-1999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "P100"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_p1xx0_3_1_35",
+      "categoryId": "digicam",
+      "title": "P1XX0XXX (01-35) (001-999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "P1XX0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 35,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_paxx0_3_0_30",
+      "categoryId": "digicam",
+      "title": "PAXX0XXX (00-30) (001-499) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PAXX0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 30,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_pbxx0_3_0_30",
+      "categoryId": "digicam",
+      "title": "PBXX0XXX (00-30) (001-499) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PBXX0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 30,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_pc10_4_1_1050",
+      "categoryId": "digicam",
+      "title": "PC10XXXX (0001-1050) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PC10"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 1050,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_pcdv0_3_1_150",
+      "categoryId": "digicam",
+      "title": "PCDV0XXX (001-150) (Camera) @Ron2600_",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PCDV0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 150,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_pcxx00_2_0_30",
+      "categoryId": "digicam",
+      "title": "PCXX00XX (00-30) (01-99) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PCXX00"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 30,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_pict_4_0_9999",
+      "categoryId": "digicam",
+      "title": "PICTXXXX (Camera) @CharlesMontgomeryBurns.",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PICT"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_picture_3_1_1220",
+      "categoryId": "phone_mms",
+      "title": "Picture XXX (001-1220) (Phone) @Techyarchivuma",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Picture"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 1220,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_prms0_3_1_200",
+      "categoryId": "digicam",
+      "title": "PRMS0XXX (001-200) (Trail Cam) @Chloe.in.mae",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PRMS0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 200,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_ptdc_4_0_1000",
+      "categoryId": "digicam",
+      "title": "PTDCXXXX (0000-1000) (Camera) @PrimeroAtreides",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PTDC"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_pxl_8_19900101_20351231",
+      "categoryId": "smartphone",
+      "title": "PXL YYYYMMDD (>2020)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "PXL "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2021,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_rca_0_3_1_200",
+      "categoryId": "digicam",
+      "title": "RCA 0XXX (001-200) (Camera) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "RCA 0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 200,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_rec_4_0_1000",
+      "categoryId": "drone_dashcam",
+      "title": "REC XXXX (0000-1000) (Drone / Dashcam)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "REC"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_sam_4_0_9999",
+      "categoryId": "digicam",
+      "title": "SAM XXXX (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SAM"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_sany_4_0_9999",
+      "categoryId": "digicam",
+      "title": "SANYXXXX (0000-9999) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SANY"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_scr_8_19900101_20351231",
+      "categoryId": "screen_recorder",
+      "title": "SCR YYYYMMDD (Screen Recorder) (>2014, <2018) @GaspacoZanis",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SCR "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2014,
+          "yearMax": 2018
+        }
+      ]
+    },
+    {
+      "id": "yrb_sdc1_4_0_9999",
+      "categoryId": "digicam",
+      "title": "SDC1XXXX (0000-9999) (Camera) @saso1901",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SDC1"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_sdv_4_0_9999",
+      "categoryId": "digicam",
+      "title": "SDV XXXX (Camera) @kyle6266",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SDV"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_smdc0_3_1_100",
+      "categoryId": "digicam",
+      "title": "SMDC0XXX (001-100) (Camera) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SMDC0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 100,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_smov0_3_1_200",
+      "categoryId": "digicam",
+      "title": "SMOV0XXX (001-200) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SMOV0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 200,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_sn_mek_3_1_300",
+      "categoryId": "digicam",
+      "title": "Snímek XXX (001-300) (Camera) (Czech) @Jannik323",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Snímek"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 300,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_snv3_4_1_3000",
+      "categoryId": "digicam",
+      "title": "SNV3XXXX (0001-3000) (Camera) @saso1901",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SNV3"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 3000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_ssp_5_1_2000",
+      "categoryId": "digicam",
+      "title": "SSPXXXXX (0001-2000) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SSP"
+        },
+        {
+          "kind": "digits",
+          "count": 5,
+          "min": 1,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_sunp_4_0_1500",
+      "categoryId": "digicam",
+      "title": "SUNPXXXX (0000-1500) (Camera) @Ron2600_",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SUNP"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1500,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_sv_a0_3_1_600",
+      "categoryId": "digicam",
+      "title": "SV A0XXX (001-600) (Camera) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SV A0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 600,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_svm_a_4_0_1000",
+      "categoryId": "digicam",
+      "title": "SVM AXXXX (0000-1000) (Camera) @nellip.683",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "SVM A"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_vclp_4_1_1000",
+      "categoryId": "digicam",
+      "title": "VCLPXXXX (0001-1000) (Camera) @__atob__",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VCLP"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 1000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_vico0_3_1_250",
+      "categoryId": "drone_dashcam",
+      "title": "VICO0XXX (001-250) (Dashcam) @Mackhill8851",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VICO0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 250,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_vid_8_19900101_20351231",
+      "categoryId": "misc",
+      "title": "VID YYYYMMDD (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VID "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_vid0_2_0_10",
+      "categoryId": "digicam",
+      "title": "Vid0XX (00-10) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Vid0"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 10,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_vid0_4_0_5000",
+      "categoryId": "digicam",
+      "title": "VID0XXXX (0000-5000) (Camera) @Techyarchivuma",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VID0"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 5000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_video_4_0_9999",
+      "categoryId": "digicam",
+      "title": "VideoXXXX (0000-9999) (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_video0_2_0_10",
+      "categoryId": "digicam",
+      "title": "Video0XX (00-10) [Video001] (Camera)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Video0"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 0,
+          "max": 10,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_videoplayback_3_1_500",
+      "categoryId": "misc",
+      "title": "Videoplayback XXX (1-500) (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Videoplayback"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 500,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_vts_01_3_0_999",
+      "categoryId": "dvd_vob",
+      "title": "VTS 01 XXX (000-999) (DVD)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VTS 01"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_vxx0_3_0_50",
+      "categoryId": "digicam",
+      "title": "VXX0XXX (00-50) (101-300) (Camera) @AymonAdren",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "VXX0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 50,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_wa_vid_8_19900101_20351231",
+      "categoryId": "misc_apps",
+      "title": "WA VID YYYYMMDD (App) (>2018, <2023) @Hrotmaister",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WA VID "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2019,
+          "yearMax": 2022
+        }
+      ]
+    },
+    {
+      "id": "yrb_wa0_3_0_999",
+      "categoryId": "misc",
+      "title": "WA0XXX (000-999) (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WA0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_web_0_3_1_999",
+      "categoryId": "digicam",
+      "title": "WEB_0XXX (001-999) (Camera) @GaspacoZanis",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WEB_0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_webcam_8_19900101_20351231",
+      "categoryId": "webcams",
+      "title": "Webcam YYYYMMDD (Webcam) (>2007, <2010) @GaspacoZanis",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Webcam "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2008,
+          "yearMax": 2009
+        }
+      ]
+    },
+    {
+      "id": "yrb_whatsapp_video_4_2005_2030",
+      "categoryId": "misc_apps",
+      "title": "WhatsApp Video YYYY [WhatsApp Video 2025] (App)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WhatsApp Video "
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 2005,
+          "max": 2030,
+          "padZeros": false
+        }
+      ]
+    },
+    {
+      "id": "yrb_wideo_3_0_199",
+      "categoryId": "digicam",
+      "title": "WideoXXX (000-199) (Camera) @EvilyArised",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Wideo"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 0,
+          "max": 199,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_win_8_19900101_20351231",
+      "categoryId": "webcams",
+      "title": "WIN YYYYMMDD [WIN 20250102] (Webcam)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WIN "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_wp_8_19900101_20351231",
+      "categoryId": "misc",
+      "title": "WP YYYYMMDD (Misc) (>2011)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "WP "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2012,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_xrecorder_8_19900101_20351231",
+      "categoryId": "screen_recorder",
+      "title": "XRecorder YYYYMMDD (Screen Recorder) (>2024) @Dayve8977",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "XRecorder "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 2025,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_ydxj_4_1_2000",
+      "categoryId": "action_cameras",
+      "title": "YDXJXXXX (0001-2000) (Action Cam) @saso1901",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "YDXJ"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_youcut_8_19900101_20351231",
+      "categoryId": "misc",
+      "title": "YouCut YYYYMMDD (Misc)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "YouCut "
+        },
+        {
+          "kind": "date_ymd",
+          "yearMin": 1990,
+          "yearMax": 2035
+        }
+      ]
+    },
+    {
+      "id": "yrb_zi6_4_1_2000",
+      "categoryId": "digicam",
+      "title": "Zi6 XXXX (0001-2000) (Camera) @misterherman",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "Zi6"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 1,
+          "max": 2000,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_zoe_00_2_1_50",
+      "categoryId": "digicam",
+      "title": "ZOE 00XX (01-50) (Camera) @Evanbeckman358",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ZOE 00"
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 1,
+          "max": 50,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "yrb_zoom0_3_1_800",
+      "categoryId": "misc_apps",
+      "title": "ZOOM0XXX (001-800) (Camera) @Alexanderhunt9263",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "ZOOM0"
+        },
+        {
+          "kind": "digits",
+          "count": 3,
+          "min": 1,
+          "max": 800,
+          "padZeros": true
+        }
+      ]
+    }
+  ]
+}
