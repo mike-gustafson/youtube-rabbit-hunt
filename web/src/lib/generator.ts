@@ -15,6 +15,22 @@ export class GeneratorError extends Error {
   }
 }
 
+const SMARTPHONE_RELATED_CATEGORY_IDS = new Set<string>([
+  "smartphone",
+  "phone_mms",
+  "misc_apps",
+  "webcams",
+]);
+
+function expandSelectedCategoryIds(selectedCategoryIds: ReadonlySet<string>): Set<string> {
+  const effectiveCategoryIds = new Set(selectedCategoryIds);
+  if (!selectedCategoryIds.has("smartphone")) return effectiveCategoryIds;
+  for (const id of SMARTPHONE_RELATED_CATEGORY_IDS) {
+    effectiveCategoryIds.add(id);
+  }
+  return effectiveCategoryIds;
+}
+
 export function generateTerm(definition: RandomElementDefinition): string {
   const parts: string[] = [];
 
@@ -66,7 +82,8 @@ export function eligibleElements(
   selectedCategoryIds: ReadonlySet<string>,
   selectedPatternIds: ReadonlySet<string>,
 ): RandomElementDefinition[] {
-  const inCategory = catalog.elements.filter((e) => selectedCategoryIds.has(e.categoryId));
+  const effectiveCategoryIds = expandSelectedCategoryIds(selectedCategoryIds);
+  const inCategory = catalog.elements.filter((e) => effectiveCategoryIds.has(e.categoryId));
   if (selectedPatternIds.size === 0) return inCategory;
   return inCategory.filter((e) => selectedPatternIds.has(e.id));
 }

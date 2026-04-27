@@ -21,13 +21,26 @@ enum SearchTermGeneratorError: LocalizedError {
 }
 
 enum SearchTermGenerator {
+    private static let smartphoneRelatedCategoryIds: Set<String> = [
+        "smartphone",
+        "phone_mms",
+        "misc_apps",
+        "webcams"
+    ]
+
+    private static func expandedCategoryIds(from selected: Set<String>) -> Set<String> {
+        guard selected.contains("smartphone") else { return selected }
+        return selected.union(smartphoneRelatedCategoryIds)
+    }
+
     /// Elements in any selected category, optionally narrowed to selected pattern ids (empty pattern set = all in categories).
     static func eligibleElements(
         categoryIds: Set<String>,
         patternIds: Set<String>,
         catalog: ElementCatalogFile
     ) -> [RandomElementDefinition] {
-        let inCategory = catalog.elements.filter { categoryIds.contains($0.categoryId) }
+        let effectiveCategoryIds = expandedCategoryIds(from: categoryIds)
+        let inCategory = catalog.elements.filter { effectiveCategoryIds.contains($0.categoryId) }
         if patternIds.isEmpty { return inCategory }
         return inCategory.filter { patternIds.contains($0.id) }
     }
