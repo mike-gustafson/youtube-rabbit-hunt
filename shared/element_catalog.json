@@ -240,6 +240,100 @@
       ]
     },
     {
+      "id": "iphone_img_four_digit",
+      "categoryId": "smartphone",
+      "title": "IMG + 4 digits (iPhone-style)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "IMG "
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "iphone_img_lower_four",
+      "categoryId": "smartphone",
+      "title": "img + 4 digits (iPhone-style lowercase variant)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "img"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "iphone_mov_four",
+      "categoryId": "smartphone",
+      "title": "MOV + 4 digits (iPhone-style video)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "MOV"
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 0,
+          "max": 9999,
+          "padZeros": true
+        }
+      ]
+    },
+    {
+      "id": "iphone_fullsizerender",
+      "categoryId": "smartphone",
+      "title": "FullSizeRender (iPhone export filename)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "FullSizeRender"
+        }
+      ]
+    },
+    {
+      "id": "kakaotalk_video_year_month",
+      "categoryId": "smartphone",
+      "title": "KakaoTalk Video YYYY MM (>2012)",
+      "segments": [
+        {
+          "kind": "literal",
+          "text": "KakaoTalk Video "
+        },
+        {
+          "kind": "digits",
+          "count": 4,
+          "min": 2013,
+          "max": 2035,
+          "padZeros": false
+        },
+        {
+          "kind": "literal",
+          "text": " "
+        },
+        {
+          "kind": "digits",
+          "count": 2,
+          "min": 1,
+          "max": 12,
+          "padZeros": true
+        }
+      ]
+    },
+    {
       "id": "mvi_underscore",
       "categoryId": "digicam",
       "title": "MVI_ + 4 digits",
