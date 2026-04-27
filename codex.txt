@@ -1,0 +1,261 @@
+string
+.MP4
+.3gp
+.MOV
+.AVI
+.WMV
+.FLAC
+.WAV
+.3g2
+VTS 01
+DVR
+VLC Record
+Robloxapp
+Recording gvo
+Lv 0
+bmdjAAAF
+Copy of Copy of
+Untitled video
+Com Oculus Vrshell
+Com Oculus Metacam
+Videoplayback
+Video Output
+Portrait Video Nanny Canon
+Sequence 01 1
+Video Assignment
+Untitled Video Made with Clipchamp
+Bandicam
+Untitled Design
+Javaw
+Injected
+My Slideshow Video
+My Slideshow
+My Stupeflix Video
+240p 400k
+480p 600k
+480p 2000k
+720p 1500k
+720p 4000k
+Clips4Sale
+Axon Body * Video
+My Videolicious Video
+Video_ts.vob
+MicrosoftTeams Video
+Axon Flex Video
+Test upload
+Moviemakeronline com
+myvideo convert2video com
+Myvideo imagetovideo com
+I created this video with the YouTube Slideshow Creator
+I created this video with the YouTube Video Editor
+Sent from my blackberry smartphone
+Video from Tweetcaster
+My Ezvid Video
+This video was uploaded from an Android phone
+.VOB
+копия видео
+копия видео Копия видео
+Sprint PictureMail
+Temp video for share
+My stop motion movie
+XiaoYing video
+Dvgrab
+Stop motion.avi
+You have new picture mail! (video)
+Media1.3gp
+Media1.3g2
+Video.3g2
+New Multimedia Message
+Multimedia Message
+Video from my phone
+Video uploaded from my mobile phone
+Video van Mijn telefoon
+video geüpload van mijn mobiel
+Vídeo desde mi teléfono
+vídeo subido desde mi teléfono móvil
+You have received a new message
+My Great Movie
+My First Project
+
+variable string
+IMG | (Apple iPhone camera / smartphone default media naming)
+MVI | (Digital cameras/camcorders using MVI sequence naming)
+YYYYMMDD | (Generic date-based export naming from multiple apps/devices)
+WIN YYYYMMDD | (Windows webcam / capture software date naming)
+Capture YYYYMMDD | (Webcam capture utilities; common generic capture prefix)
+VID YYYYMMDD | (Phone/video apps using date-stamped VID prefix)
+My Movie X | (Basic video editor project default title, likely iMovie/Movie Maker style)
+/Storage/Emulated/ | (Android filesystem path in exported media metadata)
+PXL | (Google Pixel phone camera naming)
+InShot YYYYMMDD | (InShot mobile editor)
+WhatsApp Video YYYY | (WhatsApp media export)
+FullSizeRender | (Apple iOS render/export filename)
+RPReplay | (Replay/screen-recording app naming, likely mobile)
+YouCut YYYYMMDD | (YouCut editor)
+Video YYYYMMDD | (Generic mobile/editor date-stamped title)
+Desktop YYYY MM DD | (Desktop screen capture/game capture export naming)
+KM YYYYMMDD | (KineMaster)
+IMG XXXX | (Smartphone camera default sequence, especially older iOS/Android imports)
+MVI XXXX | (Digital camera/camcorder default sequence)
+MOV XXXX | (Digital camera/camcorder default sequence)
+100 XXXX | (DCIM folder-derived camera naming)
+SAM XXXX | (Samsung digital camera/camcorder style naming)
+DSC XXXX | (Sony/Nikon and many digital cameras using DSC prefix)
+SDV XXXX | (Consumer camcorder / action camera style naming)
+DSCFXXXX | (Fujifilm and other digital cameras)
+DSCNXXXX | (Nikon-style digital camera naming)
+PICTXXXX | (Digital cameras with PICT prefix)
+MAQ0XXXX | (Generic digital camera naming, likely older compact camera firmware)
+FILEXXXX | (Dashcam/drone generic file naming)
+GOPRXXXX | (GoPro)
+GP01XXXX | (GoPro)
+GX01XXXX | (GoPro / action camera firmware variant)
+DJI XXXX | (DJI drone)
+HNI 0XXX | (Nintendo DS camera / handheld media naming)
+WA0XXX | (Generic app/device export naming, often mobile)
+MOL0XX | (Older mobile/camera style filename sequencing)
+HHMMSS | (Timestamp-based auto filename from camera/recorder systems)
+P100XXXX | (Point-and-shoot camera model-style naming)
+VTS XX X | (DVD authoring / VIDEO_TS structure)
+VTS XXX 1 | (DVD authoring / VIDEO_TS structure)
+VTS 01 XXX | (DVD authoring / VIDEO_TS structure)
+My Slideshow XX | (Slideshow creator apps)
+My Stupeflix Video XXXX | (Stupeflix)
+PXL YYYYMMDD | (Google Pixel camera)
+AUD-YYYYMMDD | (Mobile voice recorder / messaging app audio export naming)
+WhatsApp Video YYYY MM DD | (WhatsApp)
+WP YYYYMMDD | (Windows Phone / mobile export date naming)
+KakaoTalk Video YYYY MM | (KakaoTalk)
+AVSEQXX | (Camcorder AVCHD sequence naming)
+AVSEQXX.DAT | (Camcorder/DVD recorder AVSEQ file naming)
+MOVIXXXX | (Drone/dashcam/camera generic MOVI prefix naming)
+GMTYYYYMMDD | (Meeting/recording software with date stamp, likely Zoom workflows)
+SVM AXXXX | (Consumer digital camera naming pattern)
+KVIDXXXX | (Consumer camera/camcorder naming pattern)
+M2U0XXXX | (Camcorder firmware naming)
+GH01XXXX | (GoPro/action camera naming variant)
+Month DD, YYYY | (Human-readable date titles from phone/camera upload clients)
+MAH0XXXX | (Consumer digital camera naming pattern)
+CIMGXXXX | (Casio/compact camera style naming)
+IMGPXXXX | (Pentax and other digital cameras)
+VideoXXXX | (Generic camera/mobile sequential naming)
+MOV0XXXX | (Digital camera/camcorder naming)
+MUSIC0X.DAT | (DVD/Karaoke/disc recorder file naming)
+REC XXXX | (Drone/dashcam/recorder generic naming)
+AVI00XXX | (Digital camera AVI naming)
+AVI 0XXX | (Digital camera AVI naming)
+4XXX | (Phone/gallery editor short token naming)
+Trim 4XXX | (Phone video editor trim export naming)
+Copy 4XXX | (Phone duplicate/export naming)
+Video 4XXX | (Phone gallery/video app naming)
+M4H0XXXX | (Digital camera/camcorder naming)
+M4V0XXXX | (Digital camera/camcorder naming)
+SDC1XXXX | (Digital camera naming)
+SANYXXXX | (Sanyo camera naming)
+HPIMXXXX | (HP digital camera naming)
+GEDCXXXX | (General digital camera naming)
+XXXX.mp4 | (Generic export from phone/editor/camera transcode)
+VID0XXXX | (Camera/mobile VID sequence naming)
+DSC 0XXXX | (Digital camera DSC variant naming)
+CAM0XXXX | (Digital camera/camcorder naming)
+AMBAXXXX | (Action camera chipset-based naming, often Ambarella-based devices)
+HDV XXXX | (HD camcorder naming)
+DSCIXXXX | (Digital camera DSC variant naming)
+SNV3XXXX | (Digital camera/camcorder naming)
+MOVXXXXA | (Digital camera MOV variant naming)
+Zi6 XXXX | (Kodak Zi6 camera)
+ClipXXXX | (Mobile/video editor auto clip naming)
+YDXJXXXX | (Action camera naming pattern)
+0XXXX.MTS | (AVCHD camcorder files)
+SSPXXXXX | (Digital camera/camcorder naming)
+00XXXXA | (Action camera/camcorder naming)
+IMAGXXXX | (Digital camera/image sequence naming)
+CXXXX | (Compact camera naming)
+SUNPXXXX | (Digital camera naming)
+Picture XXX | (Phone MMS/gallery naming)
+PC10XXXX | (Digital camera/camcorder naming)
+PTDCXXXX | (Digital camera naming)
+ВидеоXXXX | (Localized camera naming in Cyrillic locales)
+VCLPXXXX | (Camera clip naming)
+FHDXXXX | (Action camera full-HD clip naming)
+Moto_0XXX | (Motorola phone/media naming)
+WEB_0XXX | (Webcam/camera export naming)
+P1XX0XXX | (Digital camera naming)
+im000XXX | (Camera/mobile lowercase sequence naming)
+ZOOM0XXX | (Camera app or Zoom-related recorder naming)
+SV A0XXX | (Digital camera naming)
+Videoplayback XXX | (Video downloader/browser export naming)
+GEDV0XXX | (Digital camera naming)
+0001 0XXX | (3D/render/editor sequence naming, often Blender workflows)
+ACTP0XXX | (Action camera naming)
+PAXX0XXX | (Digital camera naming)
+PBXX0XXX | (Digital camera naming)
+IM000XXX | (Trail camera / digital camera naming)
+MAV 0XXX | (Digital camera naming)
+MOVIE 0XXX | (Digital camera naming)
+ANMR0XXX | (Digital camera naming)
+Snímek XXX | (Localized camera naming in Czech locale)
+DIGI0XXX | (Digital camera naming)
+ASF 0XXX | (Camera export with ASF container naming)
+VXX0XXX | (Digital camera naming)
+IONX0XXX | (Digital camera/camcorder naming)
+VICO0XXX | (Dashcam naming)
+ArcSoft VideoXXX | (ArcSoft software)
+PRMS0XXX | (Trail cam/camera naming)
+SMOV0XXX | (Digital camera naming)
+RCA 0XXX | (RCA camcorder naming)
+MOVA0XXX | (Digital camera/camcorder naming)
+Sequence XXX | (Video editor sequence naming)
+WideoXXX | (Localized camera naming)
+MAX 0XXX | (Drone/action cam naming)
+MDGC0XXX | (Trail cam naming)
+PCDV0XXX | (Digital camera/camcorder naming)
+HD0 0XXX | (Digital camera/camcorder naming)
+Filmato 0XXX | (Localized editor/camera naming in Italian locale)
+Il mio filmato X | (Italian locale editor default naming)
+LOOP0XXX | (Action camera loop recording naming)
+SMDC0XXX | (Digital camera naming)
+HUNT0XXX | (Trail camera naming)
+ACXS0XXX | (Action camera naming)
+MVC XXXV | (Camera/camcorder MVC format naming)
+MA0 00XX | (Japanese camera naming style)
+MMF00XX | (Digital camera naming)
+G01000XX | (GoPro)
+PCXX00XX | (Digital camera naming)
+Sequence XX X | (Video editor sequence naming)
+My Project X | (Video editor project default naming)
+Kazam Screencast 000XX | (Kazam screen recorder)
+CADDX0000XX | (Caddx FPV/drone camera naming)
+ZOE 00XX | (Digital camera naming)
+QuickCapture Video - Month D, YYYY | (Webcam capture utility naming)
+Webcam YYYYMMDD | (Webcam software naming)
+Webcam Recorded Video - Month D, YYYY | (Webcam software naming)
+Webcam video Month D, YYYY | (Webcam software naming)
+Project of DD Mth 2011 PDT | (Video editor/project export naming)
+Webcam video from Month D, YYYY | (Webcam software naming)
+SCR YYYYMMDD | (Screen recorder naming)
+Flipagram Month YYYY | (Flipagram app)
+Iw3mp YYYYMMDD | (Call of Duty 4 game capture naming)
+AR.Drone 2.0 Video: YYYY | (Parrot AR.Drone app/export naming)
+WA VID YYYYMMDD | (WhatsApp)
+XRecorder DDMMYYYY | (XRecorder)
+CODWAWMP YYYY MM DD | (Call of Duty: World at War capture naming)
+Hl2 YYYY MM DD | (Half-Life 2 game capture naming)
+Grand Theft Auto 5 YYYY MM DD | (GTA V game capture naming)
+Javaw YYYY MM DD | (Java game/app capture, often Minecraft)
+Chrome YYYY MM DD | (Browser/screen recorder capture naming)
+Bandicam YYYY MM DD | (Bandicam)
+Screen Recording YYYY MM DD | (Built-in phone/desktop screen recorder naming)
+Km YYYYMMDD | (KineMaster)
+Simplescreenrecorder YYYY MM DD | (SimpleScreenRecorder)
+720p YYMMDD | (Vyond/GoAnimate export naming style)
+XRecorder YYYYMMDD | (XRecorder)
+For Month DD, YYYY | (Phone MMS/email gateway generated title)
+Recorded on Month DD, YYYY using a Flip Video Camcorder | (Flip Video camcorder)
+Video0XX | (Camera default naming)
+Vid0XX | (Camera default naming)
+MOV000XX | (Camera/camcorder default naming)
+Recorded on Month DD, YYYY using a Flip Video Camera | (Flip Video camera)
+Created on Month DD, YYYY using FlipShare | (FlipShare software)
+muuvee00XX | (muvee video editor)
+0_VIDEO_0XX | (Phone MMS/gallery naming)

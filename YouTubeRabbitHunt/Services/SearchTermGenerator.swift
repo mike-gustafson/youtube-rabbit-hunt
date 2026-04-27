@@ -4,6 +4,7 @@ enum SearchTermGeneratorError: LocalizedError {
     case noCategoriesSelected
     case noMatchingPatterns
     case invalidDefinition(RandomElementDefinition)
+    case noValidDateAtOrBeforeToday
 
     var errorDescription: String? {
         switch self {
@@ -13,6 +14,8 @@ enum SearchTermGeneratorError: LocalizedError {
             return "No patterns match your category and pattern filters."
         case .invalidDefinition(let def):
             return "Invalid pattern: \(def.title)"
+        case .noValidDateAtOrBeforeToday:
+            return "No valid date range exists at or before today."
         }
     }
 }
@@ -73,26 +76,44 @@ enum SearchTermGenerator {
                     let y1 = segment.yearMax,
                     y0 <= y1
                 else { throw SearchTermGeneratorError.invalidDefinition(definition) }
-                parts.append(randomDateYMD(yearMin: y0, yearMax: y1, rng: &rng))
+                parts.append(try randomDateYMD(yearMin: y0, yearMax: y1, rng: &rng))
             }
         }
 
         return parts.joined()
     }
 
-    /// Random `YYYYMMDD` with a valid calendar day in `[yearMin, yearMax]` (Gregorian, UTC).
-    private static func randomDateYMD(yearMin: Int, yearMax: Int, rng: inout RandomNumberGenerator) -> String {
-        let y = Int.random(in: yearMin...yearMax, using: &rng)
-        let m = Int.random(in: 1...12, using: &rng)
+    /// Random `YYYYMMDD` with a valid calendar day in `[yearMin, yearMax]` (Gregorian, UTC),
+    /// clamped so it never exceeds the current UTC date.
+    private static func randomDateYMD(yearMin: Int, yearMax: Int, rng: inout RandomNumberGenerator) throws -> String {
         var cal = Calendar(identifier: .gregorian)
         cal.timeZone = TimeZone(secondsFromGMT: 0)!
+        let now = Date()
+        let today = cal.dateComponents([.year, .month, .day], from: now)
+        guard
+            let currentYear = today.year,
+            let currentMonth = today.month,
+            let currentDay = today.day
+        else {
+            throw SearchTermGeneratorError.noValidDateAtOrBeforeToday
+        }
+
+        let upperYear = min(yearMax, currentYear)
+        guard yearMin <= upperYear else {
+            throw SearchTermGeneratorError.noValidDateAtOrBeforeToday
+        }
+
+        let y = Int.random(in: yearMin...upperYear, using: &rng)
+        let monthUpper = (y == currentYear) ? currentMonth : 12
+        let m = Int.random(in: 1...monthUpper, using: &rng)
         guard
             let start = cal.date(from: DateComponents(year: y, month: m, day: 1)),
             let dayRange = cal.range(of: .day, in: .month, for: start)
         else {
             return String(format: "%04d0101", y)
         }
-        let d = Int.random(in: dayRange, using: &rng)
+        let dayUpper = (y == currentYear && m == currentMonth) ? min(currentDay, dayRange.upperBound - 1) : (dayRange.upperBound - 1)
+        let d = Int.random(in: dayRange.lowerBound...dayUpper, using: &rng)
         return String(format: "%04d%02d%02d", y, m, d)
     }
 }
